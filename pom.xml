@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.qaframework</groupId>
-    <artifactId>web-selenium-java-framework</artifactId>
+    <artifactId>qa-java-selenium</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <description>Java test automation framework built with TestNG and Selenium WebDriver. Features Page Object Model, Component Object Pattern, WebDriver BiDi support, parallel execution, Allure reports, retry logic, and multi-environment configuration.</description>
@@ -443,7 +443,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/yashwant-das/web-selenium-java-framework</url>
+            <url>https://maven.pkg.github.com/yashwant-das/qa-java-selenium</url>
         </repository>
     </distributionManagement>
 </project>

@@ -1,6 +1,6 @@
 # QA Automation Framework Roadmap
 
-This document outlines the evolutionary roadmap for the `web-selenium-java-framework`.
+This document outlines the evolutionary roadmap for the `qa-java-selenium`.
 
 ---
 

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!--
-    PMD ruleset for web-selenium-java-framework (2026).
+    PMD ruleset for qa-java-selenium (2026).
 
     Focused PMD rules for framework-specific build gates.
 -->

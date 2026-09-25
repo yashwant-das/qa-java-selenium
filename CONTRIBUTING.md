@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Welcome! This guide outlines branching standards, commit messages, pull request requirements, and coding conventions for contributing to the `web-selenium-java-framework`.
+Welcome! This guide outlines branching standards, commit messages, pull request requirements, and coding conventions for contributing to the `qa-java-selenium`.
 
 ## Branching Standards
 

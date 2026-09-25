@@ -1,6 +1,6 @@
 # Framework Architecture
 
-This document describes the design decisions, component patterns, and layered architecture of the `web-selenium-java-framework` platform.
+This document describes the design decisions, component patterns, and layered architecture of the `qa-java-selenium` platform.
 
 ## Architecture Layers
 

@@ -1,13 +1,17 @@
-# Web Selenium Java Automation Framework
+# qa-java-selenium
 
-[![Java](https://img.shields.io/badge/Java-21-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://jdk.java.net/21/)
-[![Selenium](https://img.shields.io/badge/Selenium-v4.45.0-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
-[![TestNG](https://img.shields.io/badge/TestNG-v7.10.2-%23F15A24?style=for-the-badge)](https://testng.org)
-[![Allure](https://img.shields.io/badge/Allure-v2.35.2-%2354A5D5?style=for-the-badge)](https://allurereport.org)
-[![REST Assured](https://img.shields.io/badge/REST--Assured-v5.5.0-%23689F38?style=for-the-badge)](https://rest-assured.io)
-[![Maven](https://img.shields.io/badge/Maven-3.9%2B-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
+Starter template for web UI and API tests in Java 21 with Selenium, TestNG, REST Assured and Allure. Copy it, point it at your application, and replace the sample tests.
 
-Java test automation framework built with **TestNG** and **Selenium WebDriver**. Features Page Object Model, Component Object Pattern, parallel execution, Allure reports, retry logic, and multi-environment configuration.
+The sample tests run against [the-internet](https://the-internet.herokuapp.com) and show each part working: page and component objects, parallel runs, retries, per-environment config and Allure reports. Spotless, Checkstyle and PMD run in the build, so every copy starts with the same checks.
+
+## Start a project from this template
+
+1. Click **Use this template** (or fork the repo) to get your own copy.
+2. Change `groupId` and `artifactId` in `pom.xml`.
+3. Set your application's URL in `src/test/resources/config/*.properties`, or with the `BASE_URL` environment variable.
+4. Replace the page objects in `src/main/java/com/qaframework/pages/` with your own, built on `BasePage` and `BaseComponent`.
+5. Replace the tests in `src/test/java/com/qaframework/tests/` and the data in `src/test/resources/fixtures/`.
+6. Keep `.github/workflows/tests.yml`. It runs the build and the regression suite headless in Chrome on every push and pull request.
 
 ## Architecture Overview
 
