@@ -27,7 +27,7 @@
         <logback.version>1.5.25</logback.version>
 
         <!-- Data -->
-        <jackson.version>2.21.1</jackson.version>
+        <jackson.version>2.21.7</jackson.version>
         <javafaker.version>1.0.2</javafaker.version>
         <rest-assured.version>5.5.0</rest-assured.version>
 
@@ -40,7 +40,7 @@
         <maven.checkstyle.plugin.version>3.2.1</maven.checkstyle.plugin.version>
         <puppycrawl.checkstyle.version>10.20.1</puppycrawl.checkstyle.version>
         <maven.pmd.plugin.version>3.28.0</maven.pmd.plugin.version>
-        <pmd.version>7.6.0</pmd.version>
+        <pmd.version>7.28.0</pmd.version>
         <maven.enforcer.version>3.5.0</maven.enforcer.version>
 
         <!-- Maven plugins -->
