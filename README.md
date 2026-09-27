@@ -171,3 +171,7 @@ For more detailed guides on the framework, refer to the following documents:
 - [Contributing Guide](CONTRIBUTING.md)
 - [Testing Guidelines](TESTING_GUIDELINES.md)
 - [Development Roadmap](ROADMAP.md)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
